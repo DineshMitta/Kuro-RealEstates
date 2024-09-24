@@ -1,11 +1,8 @@
 
-import Message from "./Messages"
+import ListGroup from "./components/ListGroup";
 function App() {
 
-  const name = "Shin"
-  if (name)
-    return <h1> Hello {name} </h1>
-  return <h1>Hello Mate!!</h1>
+  return <div>< ListGroup /> </div>
   
 }
 
