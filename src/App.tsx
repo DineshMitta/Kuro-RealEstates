@@ -1,8 +1,12 @@
 
 import ListGroup from "./components/ListGroup";
+import Profile from "./demo";
 function App() {
 
-  return <div>< ListGroup /> </div>
+  return <>
+  < ListGroup />
+  <h1><Profile/></h1> 
+  </>
   
 }
 
