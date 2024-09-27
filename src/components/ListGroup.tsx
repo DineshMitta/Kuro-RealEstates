@@ -8,7 +8,8 @@ function ListGroup() {
     "Tokyo",
     "London",
     "Paris",
-    "Rome"
+    "Rome",
+    "Moscow"
   ];
 
   const [selectedIndex, setselectedIndex] = useState(-1);
