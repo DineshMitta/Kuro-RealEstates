@@ -4,6 +4,7 @@ const user = {
     imageSize: 1600,
   };
   
+  
   export default function Profile() {
     return (
       <>
